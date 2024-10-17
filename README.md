@@ -1,4 +1,4 @@
-## *Olá 👋! Eu sou o Lucas Tiago, desenvolvedor FullStack!*
+## *Eu sou lucas Tiago, desenvolvedor FullStack!*
 
 
 - 💻 experiência Com Angular, Ionic, React.js, Node.js e MySQL.
